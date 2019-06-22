@@ -3,3 +3,4 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <link rel="stylesheet" href="{{ url('/assets/css/app.css') }}">
+{{-- <link rel="stylesheet" href="{{ url('/assets/css/datatables.css') }}"> --}}
